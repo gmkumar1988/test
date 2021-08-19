@@ -1,7 +1,7 @@
 function myFunction(projects) {
 	switch (projects)
-	{{
-	case 1:
+	{
+	case 1: 
 		window.open("https://github.com/gmkumar1988/Pfizer-Sentimental-twitter-Analysis/blob/main/text_mining_tweets.R");
 	break;
 	case 2:
